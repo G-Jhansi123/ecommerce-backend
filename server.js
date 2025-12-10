@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 5000;
 // Middleware
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://ecommerce-frontend-iota-dusky.vercel.app' 
+  'https://ecommerce-frontend-tan-pi.vercel.app' 
 ];
 
 app.use(cors({
